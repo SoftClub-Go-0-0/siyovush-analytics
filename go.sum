@@ -1,0 +1,4 @@
+github.com/softclub-go-0-0/auth v0.0.0-20230311131301-4b8ea64597c5 h1:+efASiGsq8l9jk6/ZDPT5CumDsUtaCofcBVbUrDiKjA=
+github.com/softclub-go-0-0/auth v0.0.0-20230311131301-4b8ea64597c5/go.mod h1:BwSy+ptS0cRbBfoI/2poGx2FJFn/uba6ybwPr7+Suag=
+github.com/softclub-go-0-0/database v0.0.0-20230311133240-6229ed61c212 h1:XnbDglny51Jrc9NAxpry72nCu7iFd1PgFDja/oaHtg0=
+github.com/softclub-go-0-0/database v0.0.0-20230311133240-6229ed61c212/go.mod h1:Bvfl45813ZYgO3OB7BZGVfoKiDikA+gGbAL/VhpaH+o=
